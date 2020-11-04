@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#F54133",
+      "titleBar.inactiveBackground": "#F54133"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": true
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": true
+    },
+    "git.ignoreLimitWarning": true,
+}
